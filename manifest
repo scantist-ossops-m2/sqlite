@@ -1,5 +1,5 @@
-C Fix\sthe\s".import"\scommand\sin\sthe\sCLI\sso\sthat\sit\sworks\scorrectly\swith\stables\nthat\scontain\scomputed\scolumns.
-D 2024-03-11T11:26:20.409
+C Version\s3.45.2
+D 2024-03-12T10:47:37.541
 F .fossil-settings/empty-dirs dbb81e8fc0401ac46a1491ab34a7f2c7c0452f2f06b54ebb845d024ca8283ef1
 F .fossil-settings/ignore-glob 35175cdfcf539b2318cb04a9901442804be81cd677d8b889fcc9149c21f239ea
 F LICENSE.md df5091916dbb40e6e9686186587125e1b2ff51f022cc334e886c19a0e9982724
@@ -2160,9 +2160,10 @@ F vsixtest/vsixtest.tcl 6a9a6ab600c25a91a7acc6293828957a386a8a93
 F vsixtest/vsixtest.vcxproj.data 2ed517e100c66dc455b492e1a33350c1b20fbcdc
 F vsixtest/vsixtest.vcxproj.filters 37e51ffedcdb064aad6ff33b6148725226cd608e
 F vsixtest/vsixtest_TemporaryKey.pfx e5b1b036facdb453873e7084e1cae9102ccc67a0
-P 71120ea83783ee04c6dd9ef260f6ec528935b5ea3baf2348c6d5ec258093271b
-Q +95a9c88b258f18ac671a4c712603931167cc8bd0b86e41481b200c08043338b5
+P b26f24441f84a30deb9a562ab6c6de7543fbc3b3b93c34277964c9c21d734153
 R 7ba5ef65daab2c3aa274d6b8c040cb14
+T +sym-release *
+T +sym-version-3.45.2 *
 U drh
-Z a93afaa14e992589b98ee64c5f704190
+Z 954ebf75cb5abdeaea7ef7d0cd738c18
 # Remove this line to create a well-formed Fossil manifest.
